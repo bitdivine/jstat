@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bitdivine/jstat/issues"
   },
-  "homepage": "https://github.com/bitdivine/jstat"
+  "homepage": "https://github.com/bitdivine/jstat",
+  "dependencies": {
+    "tree-math": "0.0.12"
+  }
 }
