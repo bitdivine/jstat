@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/bitdivine/jstat",
   "dependencies": {
-    "tree-math": "0.0.12"
+    "tree-math": "0.0.22"
   }
 }
